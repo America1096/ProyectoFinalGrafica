@@ -1,0 +1,6 @@
+﻿  escuela.cpp
+c:\users\cgi02\source\repos\prac5 - copia\prac2\window.h(16): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi02\source\repos\prac5 - copia\prac2\window.h(17): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi02\source\repos\prac5 - copia\prac2\escuela.cpp(17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\cgi02\source\repos\prac5 - copia\prac2\escuela.cpp(22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  prac2.vcxproj -> C:\Users\CGI02\source\repos\Prac5 - copia\Debug\prac2.exe
